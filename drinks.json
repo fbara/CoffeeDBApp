@@ -1,0 +1,51 @@
+[
+    {
+        "id":1001,
+        "name": "Cappuccino",
+        "imageName":"cappuccino",
+        "description":"Cappuccino is traditionally small (180 ml maximum) with a thick layer of foam, while 'latte' traditionally is larger (200–300 ml). Caffè latte is often served in a large glass; cappuccino mostly in a 150–180 ml cup with a handle. Cappuccino traditionally has a layer of textured milk microfoam exceeding 1 cm in thickness; microfoam is frothed/steamed milk in which the bubbles are so small and so numerous that they are not seen, but it makes the milk lighter and thicker. As a result, the microfoam will remain partly on top of the mug when the espresso is poured in correctly as well as mix well with the rest of the cappuccino.",
+        "category":"hot"
+    },
+    {
+        "id":1002,
+        "name": "Americano",
+        "imageName":"americano",
+        "description":"Caffè Americano or Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. The strength of an Americano varies with the number of shots of espresso and the amount of water added.",
+        "category":"hot"
+    },
+    {
+        "id":1003,
+        "name": "Espresso",
+        "imageName":"espresso",
+        "description":"Espresso is coffee of Italian origin, brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top.",
+        "category":"hot"
+    },
+    {
+        "id":1004,
+        "name": "Iced Brew",
+        "imageName":"icedbrew",
+        "description":"Cold brewed coffee can be served iced or piping hot, dealer's choice. You follow the same method for making the coffee either way, and then either serve it over ice or warm it up in the microwave for a hot cup. When warming it for hot coffee, I often add a splash of water to dilute the coffee before warming.",
+        "category":"cold"
+    },
+    {
+        "id":1005,
+        "name": "Latte",
+        "imageName":"latte",
+        "description":"A latte is a coffee drink made with espresso and steamed milk. The term as used in English is a shortened form of the Italian caffè latte, caffelatte or caffellatte, which means 'milk coffee'.",
+        "category":"hot"
+    },
+    {
+        "id":1006,
+        "name": "Machiatto",
+        "imageName":"machiatto",
+        "description":"Caffè macchiato, sometimes called espresso macchiato, is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means 'stained' or 'spotted' so the literal translation of caffè macchiato is 'stained coffee', or coffee with a spot of milk.",
+        "category":"hot"
+    },
+    {
+        "id":1007,
+        "name": "Mocha",
+        "imageName":"mocha",
+        "description":"A caffè mocha, also called mocaccino, is a chocolate-flavored variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade.",
+        "category":"hot"
+    }
+]
