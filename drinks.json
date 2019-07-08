@@ -47,5 +47,19 @@
         "imageName":"mocha",
         "description":"A caffè mocha, also called mocaccino, is a chocolate-flavored variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade.",
         "category":"hot"
+    },
+    {
+        "id":1008,
+        "name": "Mocha",
+        "imageName":"mocha",
+        "description":"A caffè mocha, also called mocaccino, is a chocolate-flavored variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade.",
+        "category":"cold"
+    },
+    {
+        "id":1009,
+        "name": "Regular",
+        "imageName":"icedbrew",
+        "description":"A caffè mocha, also called mocaccino, is a chocolate-flavored variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade.",
+        "category":"cold"
     }
 ]
